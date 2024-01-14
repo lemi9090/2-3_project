@@ -1,3 +1,3 @@
-you have to first start your mobsf server.
-before you start mobsf_cli.py, you change your target file path. 
+you have to start your mobsf server before you start mobsf_cli.py
+and you change your target file path. 
 are you all done -> starting mobsf_cli.py
